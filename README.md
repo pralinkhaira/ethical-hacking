@@ -141,4 +141,4 @@ This is a step-by-step guide to help you learn ethical hacking from absolute bas
 
 ---
 
-> Made with ❤️ by Pralin Khaira | Security BSides Jammu | [Instagram](https://instagram.com/tbh.yoursss)
+> Made with ❤️ by Pralin Khaira | Security BSides Jammu | [Instagram](https://instagram.com/pralin.khaira)
